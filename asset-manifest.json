@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/daboda/static/js/main.1d08f8db.js",
+    "main.js": "/daboda/static/js/main.89815abf.js",
     "index.html": "/daboda/index.html",
-    "main.1d08f8db.js.map": "/daboda/static/js/main.1d08f8db.js.map"
+    "main.89815abf.js.map": "/daboda/static/js/main.89815abf.js.map"
   },
   "entrypoints": [
-    "static/js/main.1d08f8db.js"
+    "static/js/main.89815abf.js"
   ]
 }
